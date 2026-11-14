@@ -197,4 +197,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 P
 **Get the most recent version of Euro Truck Simulator 2 Patch today!**
 
 ---
-**Last updated:** 2026-11-14 07:16:26 UTC
+**Last updated:** 2026-11-14 14:41:44 UTC
